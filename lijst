@@ -1,0 +1,20 @@
+-wachtwoord vergeten     (2) -- gedaan
+-gebruikersnaam en email check voor bevestigingsmail (1) -- gedaan
+-contact formulier (3)
+-polls uitschakelen (1) -- gedaan
+-polls pagina's maken enzo (4)
+-forum (3)
+--db maken (1) -- gedaan, 2 tables
+--pagina's maken in mapje (2)
+--werkend maken (3)
+-gastenboek (3)
+-gegevens veranderen (3)
+
+
+FORUM:
+gebleven bij: je kan nu vragen maken, bekijken, antwoorden maken
+en de antwoorden bekijken bij de vraag.
+nog te doen: dat de user zn eigen vragen kan verwijderen (en
+later ook bewerken natuurlijk).
+ook nog betere opmaak van hoe de vragen en antwoorden eruit zien.
+mogelijk tags toevoegen zodat je anderen hun profiel kan bekijken???

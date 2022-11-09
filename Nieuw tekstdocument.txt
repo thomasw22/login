@@ -1,0 +1,13 @@
+<?php
+
+$dbhost = "localhost";
+$dbuser = "u125588p121618_root";
+$dbpass = "passw";
+$dbname = "u125588p121618_login";
+
+?>
+
+
+https://web0143.zxcs.nl:2222
+u125588p121618_root
+https://web0143.zxcs.nl/phpmyadmin/
